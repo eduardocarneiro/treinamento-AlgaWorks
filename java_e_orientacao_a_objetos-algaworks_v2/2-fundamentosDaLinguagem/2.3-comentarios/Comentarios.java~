@@ -1,0 +1,10 @@
+public class Comentarios {
+	
+	public static void main (String[] args) {
+		System.out.println("usa-se // para comentario de uma linha\n");
+		System.out.println("/* \n");
+		System.out.println("Usa-se /* comentario de mais de uma linha */");
+		System.out.println("*/");
+
+	}
+}

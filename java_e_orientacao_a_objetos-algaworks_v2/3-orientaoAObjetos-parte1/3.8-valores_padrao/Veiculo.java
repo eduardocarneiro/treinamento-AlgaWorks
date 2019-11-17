@@ -5,7 +5,7 @@ public class Veiculo {
 	String modelo;
 	String cor;
 	int anoDeFabricacao;
-	Proprietario dono;
+	Proprietario dono = new Proprietario();
 	
 	
 }

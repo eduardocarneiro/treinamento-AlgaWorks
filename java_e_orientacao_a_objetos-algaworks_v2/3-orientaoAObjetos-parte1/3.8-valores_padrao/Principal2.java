@@ -17,5 +17,7 @@ public class Principal2 {
 		carro.dono.bairro = "Jardins";
 		carro.dono.cidade = "Sao Paulo";
 		
+		
+		System.out.println(carro.dono.nome);
 	}
 }
